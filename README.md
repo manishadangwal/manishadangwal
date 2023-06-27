@@ -1,3 +1,4 @@
+![logo](https://github.com/manishadangwal/manishadangwal/blob/main/Blue%20Tosca%20Geometric%20Technology%20Linkedln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Manisha Dangwal</h1>
 <h3 align="center">Looking for an Opportunity in the field of Data analysis.</h3>
 
